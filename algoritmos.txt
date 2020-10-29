@@ -1,0 +1,24 @@
+Algoritmos - Compreendendo os passos de desenvolvimento do Algoritmo para desenvolver a solução.
+  - Análise: compreensão das necessidades, identificar dados de entrada,
+  procesamento a ser desenvolvido para resultar no retorno desejado;
+  - Elaboração do Algoritmo: definição dos passos, a ordem dos passos,
+  em suma, como fazer.
+  - Codificação: parte prática de escrevers as ações em suas respectivas
+  ordens.
+Estruturas de Controle - Exemplo da Galinha, Milho e a Raposa.
+  Leva Galinha, abandona ela do outro lado, volta sozinho, pega a raposa,
+  Leva a raposa,  abandona a raposa e trás a galinha de volta.
+  Pega o Milho, e abandona a Galinha no lado inicial, atravessa com o milho e deixa ele com a raposa.
+  Pega a galinha e atravessa com ela.
+Estrutura de Controle - Torre de Hanoi.
+  Menor até o último.
+  Medio até o meio.
+  Menor até o meio.
+  Maior até o último.
+  Menor até o primeiro.
+  Medio até o último.
+  Menor até o último.
+
+Definição de Algoritmo Correto: dado determinada entrada, o algoritmo supre 
+o problema e caso necessário retorna.
+Definição de Algoritmo 

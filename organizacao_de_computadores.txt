@@ -1,0 +1,47 @@
+  Computador:
+  - O que é? 
+      Dispositivo eletronico programavel pra armazenamento, processamento e 
+    recuperação de dados.
+      Maquina (Eletronica) que executa seres de funções por interação humana ou
+    de outra maquina, para desempenhar tarefas ou resolver problemas.
+  - Utilidade: 
+      Cálculos complexos, exemplo de simulação de aerodinamica e cinematica.
+      Geração de Relátorios, parametrização e ordenação de padrões de texto.
+      Controle de maquinas, autonomas ou remotamente.
+      Comunicação, transmissão de informações(dados), desde os métodos de 
+    trânsferencia até a interpretação destas informações.
+  - Processo de Uso Básico:
+      Entrada: interpretação de periféricos (Hardwares como teclado e mouse).
+      Processamento:
+      - CPU: Unidade Central de Processamento.
+      - RAM: Memória Volátil, persitencia de dados depende da alimentação elétrica
+      (Memoría Primária/ Rando Access Memory).
+      - HD/SSD: Disco Rígido ou Disco Sólido, armazenamento de dados(bytes).
+        (Memória Secundaria)
+      - Controlador de Disco Rígido: Sistema que gerencia os módulos de memoria.
+      - Controladores de Saída: Som, Vídeo, Impressora etc.
+      - Controladores de Entrada: Periféricos que inserem dados/comando para 
+      processamento.
+  Programar:
+      Compreender order e funções(ações) a serem passadas para o computador.
+  Armazenamento em Disco Rígido:
+    Se dá por posição de valores binário de posições positivas ou negativas de 
+  minúsculos tamanho, alterada por interação de inversão elétrica, por meio de
+  energia.
+    Conjuntos binários serão traduzidor por exemplo no alfabeto alfanumérico.
+  Dicionário Técnico:
+  - Dados: qualquer tipo de informação ou instrução que possa ser manipulada 
+    por um computador;
+  - Bit: unidade básica para armazenamento, processamento e comunicação de 
+    dados;
+  - Byte: conjunto de 8 bits;
+  - Palavra (word): definição dos N bytes;
+  - Comandos: instruções que levam o computador a executar tarefas;
+  - Programas: sequência de instruções com alguma finaldiade;
+  - Arquivo: conjunto de Bytes que contém dados. Ex.: programa, imagens, música,
+    etc...
+  - Software: conjunto de Programas com um propósito em comum;
+  - Hardware: módulos físicos do Computador;
+  - Sistema Operacional: conjunto de programs que gerencia e aloca recursos
+    do hardware e software.
+
